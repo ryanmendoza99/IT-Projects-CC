@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan, an <a href="https://www.linkedin.com/in/ryan-mendoza-2343a8190/">IT Professional</a>128526</h1>
+<h1>Hi, I'm Ryan, an <a href="https://www.linkedin.com/in/ryan-mendoza-2343a8190/">IT Professional</a>:)</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

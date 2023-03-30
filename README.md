@@ -17,4 +17,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/c0ach.ryan
-[linkedin]: (https://www.linkedin.com/in/ryan-mendoza-2343a8190/)
+[linkedin]: [(https://www.linkedin.com/in/ryan-mendoza-2343a8190/)]

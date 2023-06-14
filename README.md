@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ryanmendoza99/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/ryanmendoza99/creating-resource-VM)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/goatryan/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/goatryan/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ryanmendoza99/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ryanmendoza99/azure-network-protocols)
 - <b>Virtual Private Networks (VPN's) </b>
   - [Creating and using a VPN in Azure](https://github.com/ryanmendoza99/VPNs)
 

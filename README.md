@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/goatryan/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/goatryan/azure-network-protocols)
 - <b>Virtual Private Networks (VPN's) </b>
-  - [Creating and using a VPN](https://github.com/ryanmendoza99/VPNs)
+  - [Creating and using a VPN in Azure](https://github.com/ryanmendoza99/VPNs)
 
 <h2>🤳Connect with me:</h2>
 
